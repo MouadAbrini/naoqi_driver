@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "cppdbg",
+            "request": "launch",
+            "name": "Debug NAOqi Driver",
+            "cwd": "${workspaceFolder}",
+            "program": "${workspaceFolder}/build/devel/lib/naoqi_driver/naoqi_driver_node",
+            "args": [
+                "--qi-url=tcp://169.254.157.184:9443",
+                "--nao_ip=169.254.157.184",
+                "--nao_port=9503",
+                "--user=nao",
+                "--password=isir302",
+                "--roscore_ip=127.0.0.1",
+                "--network_interface=eth0",
+                "--namespace=naoqi_driver",
+                "__name:=naoqi_driver",
+                "__log:=/home/mabrini/.ros/log/cc3b3840-7a07-11ed-ab5e-430c89555404/naoqi_driver-1.log"
+            ],
+            "stopOnEntry": true
+        }
+    ]
+}
