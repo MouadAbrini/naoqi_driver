@@ -9,18 +9,18 @@
             "request": "launch",
             "name": "Debug NAOqi Driver",
             "cwd": "${workspaceFolder}",
-            "program": "${workspaceFolder}/build/devel/lib/naoqi_driver/naoqi_driver_node",
+            "program": "/home/mabrini/catkin_ws/devel/lib/naoqi_driver/naoqi_driver_node",
             "args": [
                 "--qi-url=tcp://169.254.157.184:9443",
                 "--nao_ip=169.254.157.184",
                 "--nao_port=9503",
                 "--user=nao",
                 "--password=isir302",
-                "--roscore_ip=127.0.0.1",
-                "--network_interface=eth0",
+                "--roscore_ip=134.157.18.72",
+                "--network_interface=enp0s31f6",
                 "--namespace=naoqi_driver",
                 "__name:=naoqi_driver",
-                "__log:=/home/mabrini/.ros/log/cc3b3840-7a07-11ed-ab5e-430c89555404/naoqi_driver-1.log"
+                "__log:=/home/mabrini/.ros/log/4ce7fe78-7a3b-11ed-ab5e-430c89555404/naoqi_driver-1.log"
             ],
             "stopOnEntry": true
         }

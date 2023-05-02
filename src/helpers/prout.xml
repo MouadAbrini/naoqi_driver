@@ -1,0 +1,33 @@
+<?xml version= \"1.0\" encoding= \"UTF-8\"?>
+<ModulePreference name= \"aldebaran-robotics.com@Device_Head\" xmlns= \"http://www.aldebaran-robotics.com/ns/ALPreference\" schemaLocation= \"ModulePreference.xsd\">
+    <Preference name= \"Key1\" memoryName= \"RobotConfig/Body/BaseVersion\" value= \"1.8A\" type= \"string\" />
+    <Preference name= \"Key2\" memoryName= \"RobotConfig/Body/BodyId\" value= \"AP990438A00Y69100728\" type= \"string\" />
+    <Preference name= \"Key3\" memoryName= \"RobotConfig/Body/Color\" value= \"0\" type= \"string\" />
+    <Preference name= \"Key4\" memoryName= \"RobotConfig/Body/Device/Back/Version\" value= \"2\" type= \"string\" />
+    <Preference name= \"Key5\" memoryName= \"RobotConfig/Body/Device/Brakes/Version\" value= \"6\" type= \"string\" />
+    <Preference name= \"Key6\" memoryName= \"RobotConfig/Body/Device/Hand/Left/Version\" value= \"5\" type= \"string\" />
+    <Preference name= \"Key7\" memoryName= \"RobotConfig/Body/Device/Hand/Right/Version\" value= \"5\" type= \"string\" />
+    <Preference name= \"Key8\" memoryName= \"RobotConfig/Body/Device/LeftArm/Version\" value= \"5\" type= \"string\" />
+    <Preference name= \"Key9\" memoryName= \"RobotConfig/Body/Device/LeftShoulder/Version\" value= \"1\" type= \"string\" />
+    <Preference name= \"Key10\" memoryName= \"RobotConfig/Body/Device/Legs/Version\" value= \"11\" type= \"string\" />
+    <Preference name= \"Key11\" memoryName= \"RobotConfig/Body/Device/Platform/Version\" value= \"5\" type= \"string\" />
+    <Preference name= \"Key12\" memoryName= \"RobotConfig/Body/Device/RightArm/Version\" value= \"5\" type= \"string\" />
+    <Preference name= \"Key13\" memoryName= \"RobotConfig/Body/Device/RightShoulder/Version\" value= \"1\" type= \"string\" />
+    <Preference name= \"Key14\" memoryName= \"RobotConfig/Body/Device/Wheel/Version\" value= \"5\" type= \"string\" />
+    <Preference name= \"Key15\" memoryName= \"RobotConfig/Body/SoftwareRequirement\" value= \"2.5.0\" type= \"string\" />
+    <Preference name= \"Key16\" memoryName= \"RobotConfig/Body/Type\" value= \"Juliette\" type= \"string\" />
+    <Preference name= \"Key17\" memoryName= \"RobotConfig/Body/Version\" value= \"1.7.1\" type= \"string\" />
+    <Preference name= \"Key18\" memoryName= \"RobotConfig/Head/BaseVersion\" value= \"B2C\" type= \"string\" />
+    <Preference name= \"Key19\" memoryName= \"RobotConfig/Head/Color\" value= \"0\" type= \"string\" />
+    <Preference name= \"Key20\" memoryName= \"RobotConfig/Head/Device/3dCamera/Version\" value= \"4\" type= \"string\" />
+    <Preference name= \"Key21\" memoryName= \"RobotConfig/Head/Device/Camera/Lens/Version\" value= \"1\" type= \"string\" />
+    <Preference name= \"Key22\" memoryName= \"RobotConfig/Head/Device/Camera/Version\" value= \"3\" type= \"string\" />
+    <Preference name= \"Key23\" memoryName= \"RobotConfig/Head/Device/Micro/Version\" value= \"1\" type= \"string\" />
+    <Preference name= \"Key24\" memoryName= \"RobotConfig/Head/Device/MicroSD/Size\" value= \"0\" type= \"string\" />
+    <Preference name= \"Key25\" memoryName= \"RobotConfig/Head/Device/Processor/Frequency\" value= \"1.91\" type= \"string\" />
+    <Preference name= \"Key26\" memoryName= \"RobotConfig/Head/Device/TouchBoard/Version\" value= \"2\" type= \"string\" />
+    <Preference name= \"Key27\" memoryName= \"RobotConfig/Head/FullHeadId\" value= \"AP990237I00Y61102204\" type= \"string\" />
+    <Preference name= \"Key28\" memoryName= \"RobotConfig/Head/HeadId\" value= \"AP990237I00Y61102204\" type= \"string\" />
+    <Preference name= \"Key29\" memoryName= \"RobotConfig/Head/Type\" value= \"Juliette\" type= \"string\" />
+    <Preference name= \"Key30\" memoryName= \"RobotConfig/Head/Version\" value= \"1.1.1\" type= \"string\" />
+</ModulePreference>
